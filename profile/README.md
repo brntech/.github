@@ -33,7 +33,7 @@ All papers: [broadnet.ai/research](https://www.broadnet.ai/research).
 
 - [broadnet.ai](https://www.broadnet.ai) — enterprise AI: assistants, agents, voice and vision, and the
   [Inference API](https://inference.broadnet.ai) ([models and pricing](https://www.broadnet.ai/inference)).
-- [dialerbee.com](https://dialerbee.com) — DialerBee, the the AI outbound dialer with transcript-based answering-machine detection in 11
+- [dialerbee.com](https://dialerbee.com) — DialerBee, the AI outbound dialer with transcript-based answering-machine detection in 11
   languages; per-agent pricing, no per-minute fees.
 - [broadnet.me](https://www.broadnet.me) — Broadnet's telecom and omnichannel messaging: bulk SMS, A2P messaging, HLR lookup and SMS
   firewall for global business.
