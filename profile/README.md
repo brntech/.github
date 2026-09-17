@@ -29,8 +29,13 @@ All papers: [broadnet.ai/research](https://www.broadnet.ai/research).
   Hopper and Blackwell. Release v0.3.0 with container image and validation record. Upstream:
   [vllm-project/vllm#55947](https://github.com/vllm-project/vllm/pull/55947).
 
-## Products
+## Products and companies
 
-[broadnet.ai](https://www.broadnet.ai) · [Inference API](https://inference.broadnet.ai) · [models and pricing](https://www.broadnet.ai/inference)
+- [broadnet.ai](https://www.broadnet.ai) — enterprise AI: assistants, agents, voice and vision, and the
+  [Inference API](https://inference.broadnet.ai) ([models and pricing](https://www.broadnet.ai/inference)).
+- [dialerbee.com](https://dialerbee.com) — DialerBee, the AI outbound dialer with transcript-based answering-machine detection in 11
+  languages; per-agent pricing, no per-minute fees.
+- [broadnet.me](https://www.broadnet.me) — Broadnet's telecom and omnichannel messaging: bulk SMS, A2P messaging, HLR lookup and SMS
+  firewall for global business.
 
 Contact: info@broadnet.ai
