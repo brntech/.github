@@ -12,14 +12,14 @@ We publish what we measure, under our own name, with a DOI on every paper.
 
 - **Self-drafting with Uno on a mixture of experts** (Gemma 4 26B A4B, 2026): the first Uno adapter for a mixture-of-experts model,
   the cost law that places self-drafting against separate drafters, and a losslessness instrument for a model whose plain output
-  does not reproduce itself across sessions. [10.5281/zenodo.22820512](https://doi.org/10.5281/zenodo.22820512) ·
+  does not reproduce itself across sessions. [10.5281/zenodo.22820511](https://doi.org/10.5281/zenodo.22820511) ·
   adapter [Broadnet/gemma-4-26B-A4B-uno-pilot-adapter](https://huggingface.co/Broadnet/gemma-4-26B-A4B-uno-pilot-adapter)
 - **Uno in vLLM: An Independent Implementation and Empirical Serving Study** (Qwen3-8B, 2026): Uno's acceleration reproduced in vLLM
-  within 3% of the reference at one, eight and 32 streams. [10.5281/zenodo.22652610](https://doi.org/10.5281/zenodo.22652610)
+  within 3% of the reference at one, eight and 32 streams. [10.5281/zenodo.22652609](https://doi.org/10.5281/zenodo.22652609)
 - **The Safety Map: What Does and Doesn't Transfer in LLM Sensitive-Data Handling** (39 models from 14 labs, 2026).
-  [10.5281/zenodo.19688433](https://doi.org/10.5281/zenodo.19688433)
+  [10.5281/zenodo.19688431](https://doi.org/10.5281/zenodo.19688431)
 - **How to Evaluate an LLM for Sensitive Data Safety Before Deploying It** (2026).
-  [10.5281/zenodo.19574049](https://doi.org/10.5281/zenodo.19574049)
+  [10.5281/zenodo.19574048](https://doi.org/10.5281/zenodo.19574048)
 
 All papers: [broadnet.ai/research](https://www.broadnet.ai/research).
 
